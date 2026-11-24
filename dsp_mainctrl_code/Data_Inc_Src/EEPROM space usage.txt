@@ -1,0 +1,3 @@
+EEPROM used bytes: 4082
+EEPROM total bytes: 16384
+EEPROM occupancy: 24.91%
